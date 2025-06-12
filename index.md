@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Banner Tutorías STEM y Técnicas</title>
+  <!-- Google Font Poppins -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="banner.css">
+</head>
+<body>
+  <div class="banner">
+    <div class="banner-content">
+      <div class="icons">
+        <div class="icon math" title="Matemáticas">M</div>
+        <div class="icon physics" title="Física">F</div>
+        <div class="icon chemistry" title="Química">Q</div>
+        <div class="icon programming" title="Programación">P</div>
+        <div class="icon data" title="Análisis de datos">D</div>
+      </div>
+      <div class="texto">
+        <h1>Refuerza tu éxito en STEM y Habilidades Técnicas</h1>
+        <p class="subtitulo">Clases personalizadas para primaria, secundaria, preparatoria y universidad</p>
+        <p class="impartido">Impartido por Ing. Baruj Furlong Oceguera, egresado de la UAM en ingeniería química con especialidad en diseño y selección de equipos.</p>
+        <p class="tagline">¿Quieres mejores calificaciones y dominio real de los conceptos? ¡Comienza hoy!</p>
+        <ul class="beneficios">
+          <li>Ecuaciones diferenciales: métodos claros y paso a paso</li>
+          <li>Cálculo diferencial e integral con ejercicios prácticos</li>
+          <li>Geometría: visualización y resolución eficiente</li>
+          <li>Termodinámica: comprensión profunda y aplicaciones reales</li>
+          <li>Química orgánica e inorgánica: reacciones y formulaciones</li>
+          <li>Apoyo en formulaciones químicas y proyectos de laboratorio</li>
+          <li>Automatización de procesos: fundamentos y ejemplos</li>
+          <li>Programación (Python, MATLAB, C++, etc.) aplicada a problemas STEM</li>
+          <li>Análisis de datos y estadística: Excel avanzado, Statgraphics, control estadístico</li>
+          <li>Uso de Linux/terminal y entornos de desarrollo</li>
+          <li>LaTeX y elaboración de informes técnicos y presentaciones profesionales</li>
+          <li>Preparación de tesis y asesoría en investigación</li>
+        </ul>
+        <div class="rating">★★★★★ 4.9/5 satisfacción</div>
+        <!-- Botón que abre WhatsApp -->
+        <a href="https://wa.me/5215611736533?text=Hola%2C%20quiero%20reservar%20mi%20clase%20de%20diagnóstico" 
+           target="_blank" rel="noopener" class="cta-button">
+          Enviar mensaje en WhatsApp
+        </a>
+        <!-- Nuevo botón Ver CV -->
+        <a href="cv.html" target="_blank" rel="noopener" class="cta-button cv-button">
+          Ver CV
+        </a>
+        <p class="contacto">WhatsApp: +52 5611736533</p>
+        <p class="urgency">¡Cupo limitado! Asegura tu lugar hoy.</p>
+      </div>
+    </div>
+    <div class="banner-footer">
+      <p>✅ Más de <span class="highlight">100 estudiantes</span> recomiendan</p>
+    </div>
+  </div>
+</body>
+</html>
 
