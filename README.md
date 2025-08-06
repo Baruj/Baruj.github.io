@@ -2,6 +2,9 @@
 
 Este proyecto consiste en una página web tipo banner promocional para ofrecer clases personalizadas en áreas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas) y habilidades técnicas, dirigida a estudiantes de todos los niveles educativos.
 
+#Link de la página 
+https://baruj.github.io/
+
 ## 📋 Descripción
 
 La página muestra una interfaz limpia y atractiva con:
